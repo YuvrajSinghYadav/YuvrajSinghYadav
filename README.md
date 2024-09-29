@@ -4,8 +4,8 @@
 
 
 - 👋 Hi, I’m Yuvraj Singh Yadav
-- 👀 I’m interested in Python, Machine Learning, Web Development.
-- 🌱 I’m currently learning Machine Learning, Deep Learning
+- 👀 I’m interested in Java, ReactJS, Web Development.
+- 🌱 I’m currently learning Java and Spring Boot
 - 📫 How to reach me : yuvraj150a@gmail.com
 
 <!---
